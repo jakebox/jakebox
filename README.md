@@ -1,17 +1,17 @@
 ## Jacob Boxerman / `jakebox`
 
 
-# 💫 About Me:
-Welcome to my GitHub! I'm an undergraduate student at Columbia University studying computer science. I enjoy putting my skills to use while learning new things.
+# About Me:
+Welcome to my GitHub. I'm an undergrad at Columbia University studying computer science. I enjoy putting my skills to use while learning new things.
 
 ### Outside of classes right now, I am...
 
-- running an [Emacs-focused YouTube channel](https://www.youtube.com/c/JakeBox0) (we've just passed 200,000 views! thanks!)
-- learning modern JS frameworks to build out some app ideas
 - leading a team building a high-altitude balloon with custom electronics
+- running an [Emacs-focused YouTube channel](https://www.youtube.com/c/JakeBox0) (we've just passed 300,000 views)
+- learning modern JS frameworks to build out some app ideas
 - working with a team to build an autonomous algal sampling robot
 - enjoying my time designing and building in our Makerspace
-- and much more!
+- and more
 
 ![](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
