@@ -20,6 +20,6 @@ Outside of classes, right now I am...
 ## Also check out:
 - my [website](https://jakebox.github.io)
 - my [Emacs-focused YouTube channel](https://www.youtube.com/c/JakeBox0) (we've just passed 500,000 views)
-- my linkedin
+- my [linkedin](https://www.linkedin.com/in/jacob-boxerman/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-boxerman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JakeBox0) 
