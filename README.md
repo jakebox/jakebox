@@ -1,31 +1,25 @@
-## Jacob Boxerman / `jakebox`
+# Jacob Boxerman / `jakebox`
 
+## About Me
+Welcome to my GitHub. I'm an undergraduate at Columbia University studying computer science.
 
-# About Me:
-Welcome to my GitHub. I'm an undergrad at Columbia University studying computer science. I enjoy putting my skills to use while learning new things.
-
-### Outside of classes right now, I am...
-
-- leading a team building a high-altitude balloon with custom electronics
-- running an [Emacs-focused YouTube channel](https://www.youtube.com/c/JakeBox0) (we've just passed 300,000 views)
-- learning modern JS frameworks to build out some app ideas
-- working with a team to build an autonomous algal sampling robot
-- enjoying my time designing and building in our Makerspace
-- and more
+A lot of my work is on private repos (on and off GitHub), but feel free to check out some of my older stuff on here.
+My private work tends to be in Python and Rust and my work on here is mostly HTML/CSS/JS, Python, and Emacs Lisp.
 
 ![](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-### For some project highlights, check out my [website](https://jakebox.github.io).
+## Interests & activites
 
-### 🌐 Find me on:
+Outside of classes, right now I am...
+
+- leading a team working on high-altitude research devices with custom electronics
+- researching in the Columbia Natural Language Processing Lab
+- doing freelance web design work (e.g. [mikemassimino.com](https://mikemassimino.com/)), although web design is not my passion
+- working as a Superuser in the Makerspace @ Columbia, giving trainings and assisting users with projects
+
+## Also check out:
+- my [website](https://jakebox.github.io)
+- my [Emacs-focused YouTube channel](https://www.youtube.com/c/JakeBox0) (we've just passed 500,000 views)
+- my linkedin
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-boxerman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JakeBox0) 
-
-
-<!--## 📊 GitHub Stats:
- #![](https://github-readme-stats.vercel.app/api?username=jakebox&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jakebox&theme=dark&hide_border=true)<br/>  
-[![](https://visitcount.itsvg.in/api?id=jakebox&icon=0&color=0)](https://visitcount.itsvg.in)
--->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakebox&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
